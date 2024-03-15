@@ -2,9 +2,6 @@
 
 This repository contains four console-based C++ projects developed as part of the coursework for the Bachelor of Science program in Software Engineering. Each project serves as a practical exercise to reinforce programming concepts and enhance proficiency in C++.
 
-<center>
-    <img src="[https://prod-discovery.edx-cdn.org/media/course/image/da1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png](https://cdn.hackr.io/uploads/posts/large/1604990363AtwCbeT3ma.png)" alt="Logo">
-</center>
 ## Projects Included:
 
 1. **QuizTaking**: 
