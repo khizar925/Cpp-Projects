@@ -32,3 +32,7 @@ This repository contains four console-based C++ projects developed as part of th
 Feel free to explore each project, experiment with the code, and enhance your understanding of C++ programming concepts. Happy coding! 🚀
 
 ---
+
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://khizar457.github.io/Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khizarqamar/)
